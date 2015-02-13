@@ -1,0 +1,10 @@
+core
+dao
+models
+test
+view
+view.categoria
+view.conta
+view.relatorio
+view.transacao
+view.usuario
